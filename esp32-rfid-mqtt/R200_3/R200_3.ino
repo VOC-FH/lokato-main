@@ -14,7 +14,6 @@
 static const char* DEVICE_KEY = "RaspberryChild02";
 
 // ---------- WiFi ----------
-//Abazovic - 28091978
 static const char* WIFI_SSID = "lokato"; //DEIN WLAN
 static const char* WIFI_PASSWORD = "lokato123"; //DEIN NETZWERKSCHLÜSSEL
 
